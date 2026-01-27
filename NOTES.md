@@ -86,3 +86,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add hierarchical process and manager agent notes
 - **Technical Summary**: Configured Crew process=Process.hierarchical with GPT-4o manager.
 
+### Milestone Log - 2026-01-27 (12:50)
+- **Focus**: docs: update multi-agent role and goal definitions
+- **Technical Summary**: Documented clear persona prompting for Researcher and Writer agents.
+
