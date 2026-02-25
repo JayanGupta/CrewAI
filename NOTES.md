@@ -190,3 +190,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize custom tool binding and input validation
 - **Technical Summary**: Implemented Pydantic schema validation for custom web scraping tools.
 
+### Milestone Log - 2026-02-25 (20:50)
+- **Focus**: docs: add hierarchical process and manager agent notes
+- **Technical Summary**: Configured Crew process=Process.hierarchical with GPT-4o manager.
+
